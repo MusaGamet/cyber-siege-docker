@@ -22,8 +22,8 @@ REDIS_PASSWORD=redispass123
 ```
 
 ## How to Run the Project
+1. Clone the repository and navigate to the project directory
 ```bash
-1. Clone the repository and navigate to the project directory:
 git clone <repository-url>
 cd <repository-folder>
 ```
