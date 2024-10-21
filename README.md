@@ -9,7 +9,7 @@ This project uses **Docker** to manage a PostgreSQL database and a Redis cache. 
 
 ## Environment Variables
 
-Before running the project, create a `.env` file in the root directory of the project with the following content:
+Before running the project, create a `.env` file in the root directory of the project with the following content (example):
 
 ```bash
 # PostgreSQL credentials
