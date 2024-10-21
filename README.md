@@ -52,6 +52,7 @@ docker exec -it redis_cache redis-cli
 ping
 ```
 You should receive an error: NOAUTH Authentication required.
+
 3. Authenticate using the password from the .env file
 ```bash
 auth <Redis_password>
