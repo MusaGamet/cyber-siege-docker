@@ -24,7 +24,7 @@ REDIS_PASSWORD=redispass123
 ## How to Run the Project
 1. Clone the repository and navigate to the project directory
 ```bash
-git clone <[repository-url](https://github.com/MusaGamet/cyber-siege-docker.git)>
+git clone <https://github.com/MusaGamet/cyber-siege-docker.git>
 cd <repository-folder>
 ```
 2. Create the .env file with the necessary environment variables (see above)
